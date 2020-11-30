@@ -1,13 +1,18 @@
-<h1> WAIPractice INFO PAGE</h1>
-<em>Welcome to the WAILEARN info page, here you will find details about the agenda of WAI practice groups.</em>
+<h1> WaiPRACTICE INFO PAGE</h1>
+<em>Welcome to the WaiPRACTICE info page, here you will find details about the agenda of WAI practice groups.</em>
 
 ## Contents:
-1. [Idea of WAIPractice](#idea)<br/>
+1. [Idea of WaiPRACTICE](#idea)<br/>
 2. [Program Structure: Timeline, Project Theme and Participants Per Group](#pst)<br/>
 3. [Support or Contact](#soc)<br/>
 
 ### <a name="idea">1. Idea of WAIPractice</a>
-<b>WAIPractice</b> is a hands-on programme that provides practice opportunities for beginners , intermediates and advanced level individuals. This program also provides access to mentorship opportunities, networking and community building while ensuring continous establishment of individual online portfolios.
+<b>WaiPRACTICE</b> is a subset of WaiLEARN, our main education program. #WaiPractice is a playground where #learners, #enthusiasts, and #experts can collaborate and sharpen their skills, grow their knowledge, share best practices, explore new use-cases, and simultaneously grow their networks in the domain of #AI. This program also provides access to mentorship opportunities, networking and community building while ensuring continous establishment of individual online portfolios. <br/>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/69084008/100664686-e6a5f180-334f-11eb-99fe-bd5f875d1835.png" alt="image"/>
+<br/>
+</p>
 
 ### <a name="pst">2. Program Structure: Timeline, Project Theme and Participants Per Group</a>
 <ul>
