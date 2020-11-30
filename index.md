@@ -19,9 +19,9 @@
 
 ### <a name="soc">3. Support or Contact</a>
 <ul>
-  <li><a href="https://www.linkedin.com/in/swathi-ishwarya-vijayasekaran-0a08b723/">Swathi Ishwarya Vijayasekaran</a></li>
-  <li><a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a></li>
   <li><a href="https://www.linkedin.com/in/i-am-luciana-azubuike/">Luciana Azubuike</a></li>
   <li><a href="https://www.linkedin.com/in/meghana-r-04b6a6122/">Meghana Rathi</a></li>
+  <li><a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a></li>
+  <li><a href="https://www.linkedin.com/in/swathi-ishwarya-vijayasekaran-0a08b723/">Swathi Ishwarya Vijayasekaran</a></li>
 </ul>
 <br/>
