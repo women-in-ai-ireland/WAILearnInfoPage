@@ -1,36 +1,14 @@
-## Welcome to GitHub Pages
+<h1> WAILEARN INFO PAGE</h1>
+<em>Welcome to the WAILEARN info page, here you would find details about the agenda of WAI practice groups.</em>
 
-You can use the [editor on GitHub](https://github.com/women-in-ai-ireland/WAIPracticeInfoPage.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Contents:
+1. [Brief overview of WaiLEARN](#pre)<br/>
+2. [Retrospective Comments](#our)<br/>
+3. [Our Conclusion/What we have Learnt](#con)<br/>
+4. [Future Work](#fw)<br/>
+5. [Refrences](#ref)<br/>
+6. [Contributors](#contributor)<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/women-in-ai-ireland/WAIPracticeInfoPage.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
