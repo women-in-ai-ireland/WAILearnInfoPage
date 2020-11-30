@@ -4,8 +4,9 @@
 ## Contents:
 1. [Idea of WAILEARN](#idea)<br/>
 2. [Program Structure: Timeline, Project Theme and Participants Per Group](#pst)<br/>
-3. [Programe Structure: Participation](#ps)<br/>
-4. [Support or Contact](#soc)<br/>
+3. [Program Structure: Participation](#ps)<br/>
+3. [Program Structure: Role of a Group Lead](#rll)<br/>
+5. [Support or Contact](#soc)<br/>
 
 ### <a name="idea">1. Idea of WAILEARN</a>
 <b>WAILearn</b> is a hands-on programme that provides practice opportunities for beginners , intermediates and advanced level individuals. This program also provides access to mentorship opportunities, networking and community building while ensuring continous establishment of individual online portfolios.
@@ -27,7 +28,17 @@
 </p>
 <br/>
 
-### <a name="soc">4. Support or Contact</a>
+
+### <a name="rll">4. Program Structure: Role of a Group Lead</a>
+<ul>
+ <li>Take care of the Admin work for a particular group.</li>
+ <li>Setting up weekly Recurring Meetings and host them.</li>
+ <li>Maintaining group's github Repository, trello Project Board (if required), slack thread and/or email thread.</li>
+ <li>Manage Project Timelines.</li>
+ <li>MAY or MAY NOT be involved in full-implementation. (Depending on skill-level).</li>
+</ul>
+
+### <a name="soc">5. Support or Contact</a>
 <ul>
   <li><a href="https://www.linkedin.com/in/i-am-luciana-azubuike/">Luciana Azubuike</a></li>
   <li><a href="https://www.linkedin.com/in/meghana-r-04b6a6122/">Meghana Rathi</a></li>
