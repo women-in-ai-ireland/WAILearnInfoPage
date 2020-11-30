@@ -35,7 +35,7 @@
  <li>Setting up weekly Recurring Meetings and host them.</li>
  <li>Maintaining group's github Repository, trello Project Board (if required), slack thread and/or email thread.</li>
  <li>Manage Project Timelines.</li>
- <li>MAY or MAY NOT be involved in full-implementation. (Depending on skill-level).</li>
+ <li><b>MAY or MAY NOT</b> be involved in full-implementation. (Depending on skill-level).</li>
 </ul>
 
 ### <a name="soc">5. Support or Contact</a>
