@@ -15,6 +15,8 @@
 <ul>
  <li>Each group has a total of two months to complete the project they decide to implement.</li>
  <li>Should a group require more time to complete their project, this can we arranged.</li>
+ <li>Project themes are determined by mentors and participants.</li>
+ <li>For each group, there will be one Mentor(optional), one Lead and a maximum of 5 participants.</li>
 </ul>
 
 ### <a name="ps">3. Progrogram Structure</a>
