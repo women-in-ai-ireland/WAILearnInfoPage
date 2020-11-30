@@ -1,5 +1,5 @@
 <h1> WAILEARN INFO PAGE</h1>
-<em>Welcome to the WAILEARN info page, here you would find details about the agenda of WAI practice groups.</em>
+<em>Welcome to the WAILEARN info page, here you will find details about the agenda of WAI practice groups.</em>
 
 ## Contents:
 1. [Idea of WAILEARN](#idea)<br/>
