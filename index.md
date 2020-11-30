@@ -3,7 +3,7 @@
 
 ## Contents:
 1. [Idea of WaiPRACTICE](#idea)<br/>
-2. [Program Structure: Timeline, Project Theme and Participants Per Group](#pst)<br/>
+2. [Program Structure](#pst)<br/>
 3. [WaiPRACTICE Mentor Commitment](#mc)<br/>
 4. [WaiPRACTICE Participant Commitment](#pc)<br/>
 5. [Support or Contact](#soc)<br/>
@@ -16,10 +16,9 @@
 <br/>
 </p>
 
-### <a name="pst">2. Program Structure: Timeline, Project Theme and Participants Per Group</a>
+### <a name="pst">2. Program Structure</a>
 <ul>
  <li>Each group has a total of two months to complete the project they decide to implement.</li>
- <li>Should a group require more time to complete their project, this can we arranged.</li>
  <li>Project themes are determined by mentors and participants.</li>
  <li>For each group, there will be one Mentor(optional) and a maximum of 3 participants.</li>
 </ul>
@@ -46,7 +45,21 @@
  <li><b>Assisting peers </b>in their learning.</li>
 </ul>
 
-### <a name="soc">5. Support or Contact</a>
+### <a name="pc">5. WaiPRACTICE Partcipation Outcome</a>
+<ul>
+ <li><b>Self-organisation</b> to upskill and carry out assigned project phases</li>
+ <ul>
+  <li>Weekly Recurring Meeting.</li>
+  <li>GitHub Repository (Mandatory).</li>
+  <li>Trello Project Board (if required).</li>
+  <li>Slack Thread and/or Email Thread.</li>
+ </ul>
+ <li>Meeting agreed <b>project timelines.</b></li>
+ <li><b>Respecting mentor’s time</b> and availability.</li>
+ <li><b>Assisting peers </b>in their learning.</li>
+</ul>
+
+### <a name="soc">6. Support or Contact</a>
 <ul>
   <li><a href="https://www.linkedin.com/in/i-am-luciana-azubuike/">Luciana Azubuike</a></li>
   <li><a href="https://www.linkedin.com/in/meghana-r-04b6a6122/">Meghana Rathi</a></li>
