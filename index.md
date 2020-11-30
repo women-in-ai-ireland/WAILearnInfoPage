@@ -19,7 +19,7 @@
  <li>For each group, there will be one Mentor(optional), one Lead and a maximum of 5 participants.</li>
 </ul>
 
-### <a name="ps">3. Progrogram Structure</a>
+### <a name="ps">3. Progrogram Structure: Participation</a>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/69084008/100652607-14cf0580-333f-11eb-82e9-98f388fd2a9a.png" alt="image"/>
 <br/>
