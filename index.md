@@ -6,7 +6,7 @@
 2. [Support or Contact](#soc)<br/>
 
 ### <a name="idea">1. Idea of WAILEARN</a>
-WAILearn is a hands-on programme that provides practice opportunities for beginners , intermediates and advanced level individuals. This also program provides access to mentorship opportunities, networking and community building while ensuring continous establishment of individual online portfolios.
+<b>WAILearn</b> is a hands-on programme that provides practice opportunities for beginners , intermediates and advanced level individuals. This also program provides access to mentorship opportunities, networking and community building while ensuring continous establishment of individual online portfolios.
 
 ### <a name="soc">2. Support or Contact</a>
 
