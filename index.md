@@ -2,12 +2,15 @@
 <em>Welcome to the WAILEARN info page, here you would find details about the agenda of WAI practice groups.</em>
 
 ## Contents:
-1. [Brief overview of WaiLEARN](#pre)<br/>
+1. [Idea of WAILEARN](#idea)<br/>
 2. [Retrospective Comments](#our)<br/>
 3. [Our Conclusion/What we have Learnt](#con)<br/>
 4. [Future Work](#fw)<br/>
 5. [Refrences](#ref)<br/>
 6. [Contributors](#contributor)<br/>
+
+### <a name="idea">1. Idea of WAILEARN</a>
+WAILearn is a hands-on programme that provides practice opportunities for beginners , intermediates and advanced level individuals. This also program provides access to mentorship opportunities, networking and community building while ensuring continous establishment of individual online portfolios.
 
 
 ### Support or Contact
