@@ -12,6 +12,10 @@
 
 
 ### <a name="pst">2. Program Structure: Timeline, Project Theme and Participants Per Group</a>
+<ul>
+ <li>Each group has a total of two months to complete the project they decide to implement.</li>
+ <li>Should a group require more time to complete their project, this can we arranged.</li>
+</ul>
 
 ### <a name="ps">3. Progrogram Structure</a>
 <p align="center">
