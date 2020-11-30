@@ -4,7 +4,7 @@
 ## Contents:
 1. [Idea of WAILEARN](#idea)<br/>
 2. [Program Structure: Timeline, Project Theme and Participants Per Group](#pst)<br/>
-3. [Programe Structure: Participants](#ps)<br/>
+3. [Programe Structure: Participation](#ps)<br/>
 4. [Support or Contact](#soc)<br/>
 
 ### <a name="idea">1. Idea of WAILEARN</a>
