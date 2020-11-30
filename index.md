@@ -13,7 +13,7 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/69084008/100652607-14cf0580-333f-11eb-82e9-98f388fd2a9a.png" alt="image"/>
 <br/>
-   <em>Figure 3: Resampled dataset shape Counter({0: 1931, 1: 1931})</em>
+   <em>Figure 1: Program Structure</em>
 </p>
 <br/>
 
