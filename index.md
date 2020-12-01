@@ -20,7 +20,7 @@
 <ul>
  <li>Each group has a total of two months to complete the project they decide to implement.</li>
  <li>Project themes are determined by mentors and participants.</li>
- <li>For each group, there will be one Mentor(optional) and a maximum of 3 participants.</li>
+ <li>For each group, there will be one Mentor(optional) and 3 to 5 participants.</li>
 </ul>
 
 ### <a name="mc">3. WaiPRACTICE Mentor Commitment</a>
