@@ -35,7 +35,7 @@
 <ul>
  <li><b>Self-organisation</b> to upskill and carry out assigned project phases</li>
  <li>Meeting agreed <b>project timelines.</b></li>
- <li><b>Respecting mentor’s ad peers' time</b> and availability.</li>
+ <li><b>Respecting mentor’s and peers' time and availability.</b></li>
  <li><b>Assisting peers </b>in their learning.</li>
 </ul>
 
