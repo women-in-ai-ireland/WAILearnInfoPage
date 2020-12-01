@@ -36,46 +36,12 @@
 ### <a name="pc">4. WaiPRACTICE Participant Commitment</a>
 <ul>
  <li><b>Self-organisation</b> to upskill and carry out assigned project phases</li>
- <ul>
-  <li>Weekly Recurring Meeting.</li>
-  <li>GitHub Repository (Mandatory).</li>
-  <li>Trello Project Board (if required).</li>
-  <li>Slack Thread and/or Email Thread.</li>
- </ul>
  <li>Meeting agreed <b>project timelines.</b></li>
- <li><b>Respecting mentor’s time</b> and availability.</li>
+ <li><b>Respecting mentor’s ad peers' time</b> and availability.</li>
  <li><b>Assisting peers </b>in their learning.</li>
 </ul>
 
-### <a name="oc">5. WaiPRACTICE Partcipation Outcome</a>
-<ul>
- <li><b>Self-organisation</b> to upskill and carry out assigned project phases</li>
- <ul>
-  <li>Weekly Recurring Meeting.</li>
-  <li>GitHub Repository (Mandatory).</li>
-  <li>Trello Project Board (if required).</li>
-  <li>Slack Thread and/or Email Thread.</li>
- </ul>
- <li>Meeting agreed <b>project timelines.</b></li>
- <li><b>Respecting mentor’s time</b> and availability.</li>
- <li><b>Assisting peers </b>in their learning.</li>
-</ul>
-
-### <a name="faq">6. WaiPRACTICE FAQs</a>
-<ul>
- <li><b>Self-organisation</b> to upskill and carry out assigned project phases</li>
- <ul>
-  <li>Weekly Recurring Meeting.</li>
-  <li>GitHub Repository (Mandatory).</li>
-  <li>Trello Project Board (if required).</li>
-  <li>Slack Thread and/or Email Thread.</li>
- </ul>
- <li>Meeting agreed <b>project timelines.</b></li>
- <li><b>Respecting mentor’s time</b> and availability.</li>
- <li><b>Assisting peers </b>in their learning.</li>
-</ul>
-
-### <a name="soc">7. Support or Contact</a>
+### <a name="soc">5. Support or Contact</a>
 <ul>
   <li><a href="https://www.linkedin.com/in/i-am-luciana-azubuike/">Luciana Azubuike</a></li>
   <li><a href="https://www.linkedin.com/in/meghana-r-04b6a6122/">Meghana Rathi</a></li>
