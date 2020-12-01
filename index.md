@@ -9,7 +9,7 @@
 5. [Support or Contact](#soc)<br/>
 
 ### <a name="idea">1. Idea of WAIPractice</a>
-<b>WaiPRACTICE</b> is a subset of WaiLEARN, our main education program. #WaiPractice is a playground where #learners, #enthusiasts, and #experts can collaborate and sharpen their skills, grow their knowledge, share best practices, explore new use-cases, and simultaneously grow their networks in the domain of #AI. This program also provides access to mentorship opportunities, networking and community building while ensuring continous establishment of individual online portfolios. <br/>
+<b>WaiPRACTICE</b> is a subset of WaiLEARN, our main education program. WaiPractice is a playground where learners, enthusiasts, and experts can collaborate and practice their skills, grow their knowledge, share best practices, explore new use-cases, and simultaneously grow their networks in the domain of #AI. This program also provides access to mentorship opportunities, networking and community building while ensuring continous establishment of individual online portfolios. <br/>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/69084008/100664686-e6a5f180-334f-11eb-99fe-bd5f875d1835.png" alt="image"/>
