@@ -47,3 +47,5 @@
   <li><a href="https://www.linkedin.com/in/swathi-ishwarya-vijayasekaran-0a08b723/">Swathi Ishwarya Vijayasekaran</a></li>
 </ul>
 <br/>
+
+<strong>We are finalising our blogs at the moment for our previous cohorts. They will soon be up on Medium. </strong>
