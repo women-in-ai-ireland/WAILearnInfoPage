@@ -35,7 +35,7 @@
 ### <a name="blogs">WaiPRACTICE Blogs</a>
 <strong>July 2020</sstrong>
 <ul>
-  <li><a href="https://www.linkedin.com/in/i-am-luciana-azubuike/">Luciana Azubuike</a></li>
+  <li><a href="https://medium.com/womeninai/trinitario-criollo-or-forastero-a-data-analysts-way-of-discovering-the-best-chocolate-bar-96d131fe5375">Trinitario, Criollo or Forastero? A Data Analyst’s way of discovering the Best Chocolate Bar</a></li>
 </ul>
 <strong>August 2020</sstrong>
 <ul>
