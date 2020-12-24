@@ -1,7 +1,7 @@
 <h1> WaiPRACTICE INFO PAGE</h1>
 <em>Welcome to the WaiPRACTICE info page, here you will find details about the agenda of WAI practice groups.</em>
 
-### <a name="idea">Idea of WAIPractice</a>
+### <a name="idea">The Idea of WAIPractice</a>
 <b>WaiPRACTICE</b> is a subset of WaiLEARN, our main education program. WaiPractice is a playground where learners, enthusiasts, and experts can collaborate and practice their skills, grow their knowledge, share best practices, explore new use-cases, and simultaneously grow their networks in the domain of #AI. This program also provides access to mentorship opportunities, networking and community building while ensuring continous establishment of individual online portfolios. <br/>
 
 <p align="center">
@@ -16,7 +16,7 @@
  <li>For each group, there will be one Mentor and 3 to 5 participants.</li>
 </ul>
 
-### <a name="mc">WaiPRACTICE Mentor Commitment</a>
+### <a name="mc">Mentor Commitment</a>
 <ul>
  <li>Supervise and mentor a two-month long group project in the domain of AI and Data science.</li>
  <li>To meet the team weekly to provide guidance and resolve open questions.</li>
@@ -24,7 +24,7 @@
  <li>Provide assistance to the team members in different project phases</li>
 </ul>
 
-### <a name="pc">WaiPRACTICE Participant Commitment</a>
+### <a name="pc">Participant Commitment</a>
 <ul>
  <li><b>Self-organisation</b> to upskill and carry out assigned project phases</li>
  <li>Meeting agreed <b>project timelines.</b></li>
@@ -33,11 +33,11 @@
 </ul>
 
 ### <a name="blogs">WaiPRACTICE Blogs</a>
-<strong>July 2020</sstrong>
+<strong>July 2020</strong>
 <ul>
   <li><a href="https://medium.com/womeninai/trinitario-criollo-or-forastero-a-data-analysts-way-of-discovering-the-best-chocolate-bar-96d131fe5375">Trinitario, Criollo or Forastero? A Data Analyst’s way of discovering the Best Chocolate Bar</a></li>
 </ul>
-<strong>August 2020</sstrong>
+<strong>August 2020</strong>
 <ul>
   <li><a href="https://women-in-ai-ireland.github.io/August-2020-WaiLEARN-Female-Employment-Analysis/">Female Employment Analysis</a></li>
  <li><a href="https://women-in-ai-ireland.github.io/August-2020-WaiLEARN-QA-Chatbot/">QA Chatbot using Facebook Babi Dataset</a></li>
