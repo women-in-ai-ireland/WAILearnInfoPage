@@ -1,13 +1,6 @@
 <h1> WaiPRACTICE INFO PAGE</h1>
 <em>Welcome to the WaiPRACTICE info page, here you will find details about the agenda of WAI practice groups.</em>
 
-## Contents:
-1. [Idea of WaiPRACTICE](#idea)<br/>
-2. [Program Structure](#pst)<br/>
-3. [WaiPRACTICE Mentor Commitment](#mc)<br/>
-4. [WaiPRACTICE Participant Commitment](#pc)<br/>
-5. [Support or Contact](#soc)<br/>
-
 ### <a name="idea">1. Idea of WAIPractice</a>
 <b>WaiPRACTICE</b> is a subset of WaiLEARN, our main education program. WaiPractice is a playground where learners, enthusiasts, and experts can collaborate and practice their skills, grow their knowledge, share best practices, explore new use-cases, and simultaneously grow their networks in the domain of #AI. This program also provides access to mentorship opportunities, networking and community building while ensuring continous establishment of individual online portfolios. <br/>
 
