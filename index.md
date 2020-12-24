@@ -45,6 +45,9 @@
  <li><a href="https://women-in-ai-ireland.github.io/August-2020-WaiLEARN-Image-Caption-Generation/">Image Captioning with Keras</a></li>
 </ul>
 
+<strong>October 2020</strong>
+Coming Soon ...
+
 ### <a name="soc">Support or Contact</a>
 <ul>
   <li><a href="https://www.linkedin.com/in/i-am-luciana-azubuike/">Luciana Azubuike</a></li>
@@ -53,5 +56,3 @@
   <li><a href="https://www.linkedin.com/in/swathi-ishwarya-vijayasekaran-0a08b723/">Swathi Ishwarya Vijayasekaran</a></li>
 </ul>
 <br/>
-
-<strong>We are finalising our blogs at the moment for our previous cohorts. They will soon be up on Medium. </strong>
