@@ -56,9 +56,9 @@ Coming Soon ...
 
 ### <a name="soc">Support or Contact</a>
 <ul>
-  <li><a href="https://www.linkedin.com/in/i-am-luciana-azubuike/">Luciana Azubuike</a></li>
-  <li><a href="https://www.linkedin.com/in/meghana-r-04b6a6122/">Meghana Rathi</a></li>
-  <li><a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a></li>
-  <li><a href="https://www.linkedin.com/in/swathi-ishwarya-vijayasekaran-0a08b723/">Swathi Ishwarya Vijayasekaran</a></li>
+ <li><a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy (WAII Education Co-Lead)</a></li>
+ <li><a href="https://www.linkedin.com/in/swathi-ishwarya-vijayasekaran-0a08b723/">Swathi Ishwarya Vijayasekaran (WAII Education Co-Lead)</a></li>
+ <li><a href="https://www.linkedin.com/in/meghana-r-04b6a6122/">Meghana Rathi (WaiPRACTICE Showcase Manager)</a></li>
+ <li><a href="https://www.linkedin.com/in/i-am-luciana-azubuike/">Luciana Azubuike (WaiPRACTICE Communications Manager)</a></li>
 </ul>
 <br/>
