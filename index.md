@@ -46,6 +46,12 @@
 </ul>
 
 <strong>October 2020</strong>
+<ul>
+  <li><a href="https://women-in-ai-ireland.github.io/October-2020-WaiLEARN-Detecting-COVID-19/">Deep Learning for detecting COVID-19 using Chest X-Ray Images</a></li>
+  <li><a href="https://github.com/women-in-ai-ireland/October-2020-WaiLEARN-Face-Mask-Detection/blob/master/Automatic%20Face%20Detection.pdf">Automatic Face Mask Detection using OpenCV</a></li>
+</ul>
+
+<strong>January 2021</strong>
 Coming Soon ...
 
 ### <a name="soc">Support or Contact</a>
