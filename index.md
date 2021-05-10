@@ -55,6 +55,7 @@
 <strong>January 2020</strong>
 <ul>
   <li><a href="https://women-in-ai-ireland.github.io/January-2021-WaiLEARN-Analysis-Spotify-Dataset/">Analysis of Spotify Data</a></li>
+ <li><a href="https://github.com/women-in-ai-ireland/October-2020-WaiLEARN-004/blob/master/README.md">Online Retail Data Analysis</a></li>
 </ul>
 
 <strong>April 2021</strong>
