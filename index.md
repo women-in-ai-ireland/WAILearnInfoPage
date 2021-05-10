@@ -52,7 +52,7 @@
 </ul>
 
 
-<strong>October 2020</strong>
+<strong>January 2020</strong>
 <ul>
   <li><a href="https://women-in-ai-ireland.github.io/January-2021-WaiLEARN-Analysis-Spotify-Dataset/">Analysis of Spotify Data</a></li>
 </ul>
