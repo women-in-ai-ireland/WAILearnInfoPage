@@ -58,7 +58,14 @@
  <li><a href="https://github.com/women-in-ai-ireland/October-2020-WaiLEARN-004/blob/master/README.md">Online Retail Data Analysis</a></li>
 </ul>
 
-<strong>April 2021</strong>
+<strong>July 2021</strong>
+<ul>
+  <li><a href="https://github.com/women-in-ai-ireland/July-2021-WaiLEARN-001/blob/main/WaiPractice-Report---Masterfile.md">6 Nations, 3 Games - Data Analysis and Visualisation of Women’s Rugby using R</a></li>
+ <li><a href=""></a>Coming soon...</li>
+ <li><a href=""></a>Coming soon...</li>
+</ul>
+
+<strong>2022</strong>
 Coming Soon ...
 
 ### <a name="soc">Support or Contact</a>
