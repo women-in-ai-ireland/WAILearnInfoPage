@@ -62,11 +62,14 @@
 <ul>
   <li><a href="https://github.com/women-in-ai-ireland/July-2021-WaiLEARN-001/blob/main/WaiPractice-Report---Masterfile.md">6 Nations, 3 Games - Data Analysis and Visualisation of Women’s Rugby using R</a></li>
  <li><a href="https://public.tableau.com/app/profile/misbah.fatima/viz/DublinBikeRoutesTraffic/Dashboard1?publish=yes">Dublin Bike Traffic Analysis</a></li>
- <li><a href="https://github.com/women-in-ai-ireland/July-2021-WaiLEARN-002-Impact-GoogleTranslate-Altering-English-Second-Lang/blob/main/WAI_Project_SharonLee.Rmd"></a>'The impact of Google Translate in Altering English processing as a Second Language</li>
+ <li><a href="https://github.com/women-in-ai-ireland/July-2021-WaiLEARN-002-Impact-GoogleTranslate-Altering-English-Second-Lang/blob/main/WAI_Project_SharonLee.Rmd">The impact of Google Translate in Altering English processing as a Second Language</a></li>
 </ul>
 
 <strong>2022</strong>
-Coming Soon ... Collaboration with PyLadies -> Register as a Participant <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVJ4KaqVFWJBFjJQSHQ29_dGIEb-Tgeqe9EY9HGKveRnnsyw/viewform">here.</a>
+<br/>
+<strong>Collaboration with PyLadies Dublin</strong>
+<br/>
+Register as a Participant <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVJ4KaqVFWJBFjJQSHQ29_dGIEb-Tgeqe9EY9HGKveRnnsyw/viewform">here.</a>
 
 ### <a name="soc">Support or Contact</a>
 <ul>
