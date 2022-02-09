@@ -71,6 +71,9 @@
 <br/>
 Register as a Participant <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVJ4KaqVFWJBFjJQSHQ29_dGIEb-Tgeqe9EY9HGKveRnnsyw/viewform">here.</a>
 
+### <a name="faqs">WaiPRACTICE FAQs</a>
+<a href=''>Check out our FAQs.</a></li>
+
 ### <a name="soc">Support or Contact</a>
 <ul>
  <li><a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy (WAII Education Co-Lead)</a></li>
